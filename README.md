@@ -2,6 +2,20 @@
  
 ### Hi there 👋
 
+```
+### fork 하는 법
+1. git clone
+2. branch 생성 <- 매우 중요✨ 메인에다가 그대로 작업하지 말자
+3. 작업
+4. commit
+5. push
+6. pull request 생성
+7. 원 저장소에서 merge 여부 결정
+8. merge 되면 생성한 branch 삭제
+9. fork한 내 로컬의 origin master 브랜치에 pull 받아서 코드 동기화하기
+10. 마무리로 push해서 git hub에 최신상태로 업로드
+```
+
 <!--
 **gunhoflash/gunhoflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
